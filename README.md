@@ -1,13 +1,28 @@
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 <h1 align="center"> Lord-Samuel </h1>
 <p align="center">  
   
 ***
   
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=Lord-Samuel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Lord-Samuel&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Samuel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lord-Samuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lord-Samuel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Samuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-  #### ```TOTAL PROFILE VIEWS 🧚```
+  #### ```TOTAL PROFILE VIEWS ```
 ![Visitor Count](https://profile-counter.glitch.me/Lord-Samuel/count.svg)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lord-Samuel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Lord-Samuel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Lord-Samuel&icon=6&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
