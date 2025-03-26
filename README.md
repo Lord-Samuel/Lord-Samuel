@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Profile%20views" alt="A-S-W-I-N-S-P-A-R-K-Y" style="width: 150px;" />
+  <img src="https://komarev.com/ghpvc/?username=Lord-Samuel&label=Profile%20views" alt="Lord-Samuel" style="width: 150px;" />
 </p>
 </br>
 
 <div align="center"> 
-  <a href="mailto:sparkymon777@gmail.com">
+  <a href="mailto:lordsamueltech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://wa.me/917012984396" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/sparky.drip" target="_blank">
-     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
