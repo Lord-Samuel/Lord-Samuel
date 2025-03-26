@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://github.com/Lord-Samuel">
-    <img alt="Salman Ahmad" height="300" src="[https://avatars.githubusercontent.com/u/140977479?v=4](https://github.com/account)">
+    <img alt="Salman Ahmad" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
   </a>
 </p>
 
