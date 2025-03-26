@@ -1,14 +1,11 @@
-# Hi 👋, I'm SALMAN AHMAD!
+# Hi 👋, I'm Lord-Samuel!
 
 <p align="center">  
-  <a href="https://github.com/salmanytofficial">
+  <a href="https://github.com/Lord-Samuel">
     <img alt="Salman Ahmad" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
   </a>
 </p>
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/salmanytofficial/count.svg" />
-</p>
+
 
 
 ## 📕 About Me
