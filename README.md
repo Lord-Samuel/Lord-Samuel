@@ -1,46 +1,5 @@
 # Hi 👋, I'm Lord-Samuel!
 
-<p align="center">  
-  <a href="https://github.com/Lord-Samuel">
-    <img alt="Salman Ahmad" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
-  </a>
-</p>
-
-
-
-## 📕 About Me
-I'm a College Student...
-CS Student...
-I Can Edit Source Files...
-
-## 🛠 Skills
-C&C++, HTML5, CSS, JAVASCRIPT
-
-## Others
-
-- 👋 Hi, I’m **Salman Ahmad**
-
--  👨🏻‍🦱 **18** years old
-
--  🗺 Currently living in **Pakistan, Punjab, Lahore**
-
-- 🔭 I’m currently working on [XLICON-MD BOTS](https://github.com/salmanytofficial/XLICON-V3-MD)
-
-- 🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
-
-- 👯‍♀️ I’m looking to collaborate on **Whatsapp Bots**
-
-- 🤝 I’m looking for help with **other developers**
-
--  💬 Ask me about **Ai Bots**
-
-- 📫 How to reach me **salmansheikh2500@gmail.com**
- 
-- 🚩Instagram : https://instagram.com/ahmmikun/
-
-- ⚡️ Fun fact...
-**Everyone thinks that i'm a Programmer ...But actually i can't even creata a simple website 😂**
----
 
 ### 🗼 How To Reach Me :
 <p align="center">
@@ -208,7 +167,9 @@ C&C++, HTML5, CSS, JAVASCRIPT
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=A-S-W-I-N-S-P-A-R-K-Y&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+- ⚡️ Fun fact...
+**Everyone thinks that i'm a Programmer ...But actually i can't even creata a simple website 😂**
+---
 <br/><br/>
 
 <hr/>
