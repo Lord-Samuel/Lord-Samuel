@@ -1,6 +1,5 @@
 # Hi 👋, I'm Lord-Samuel!
 
-[Lord Samuel](https://files.catbox.moe/2ufdbf.gif)
 
 
 [![Lord-Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lord-Samuel&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
