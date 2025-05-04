@@ -14,11 +14,6 @@ I'm passionated about nothing. tnx
 
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
-  
-  <a href="https://api-rebix.vercel.app" target="_blank"><img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"></a><br>  
-  <div align="left">
-       <a href="https://github.com/Lord-Samuel/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.makeuseof.com%2Fgithub-repos-you-should-star%2F&psig=AOvVaw2bvbBj6QYNhHOINtWrWA5u&ust=1746468452239000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiq99e0io0DFQAAAAAdAAAAABAE"></a>  
-  </div>
 
 
 </details>
