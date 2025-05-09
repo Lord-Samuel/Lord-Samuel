@@ -14,6 +14,8 @@ I'm passionated about nothing. tnx
 
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
+<a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 
+<a href="https://wa.me/233558876692" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" /></a>
 
 </details>
