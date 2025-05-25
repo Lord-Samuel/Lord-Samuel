@@ -14,11 +14,21 @@ I'm passionated about nothing. tnx
 
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
-  <details><summary><b>Github</b></summary><br>
-<a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  </details>
-  <details><summary><b>Whatsapp</b></summary><br>
-    <a href="https://wa.me/233558876692" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32" height="32" /></a>
-  </details>
+  
+### Let's connect and collaborate!
+
+- <a href="https://github.com/Lord-Samuel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /> GitHub</a>
+- <a href="mailto:lordsamueltech@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="20" /> Email</a>
+
+**Instant Messaging:**
+- <a href="https://wa.me/233558876692" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" height="20" /> WhatsApp</a>
+- <a href="https://t.me/SamuelRebix" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" /> Telegram</a>
+
+**Availability:**
+- Monday-Friday: 9AM - 5PM GMT
+- Response time: Within 24 hours
+
+For collaborations, please include detailed information about your project.
+</details>
 
 </details>
