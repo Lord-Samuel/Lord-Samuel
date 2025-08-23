@@ -1,16 +1,23 @@
-# SAMUEL'S PROFILE <img src="https://giffiles.alphacoders.com/219/219128.gif" width="80">
+# SAMUEL'S PROFILE
 
-> "I'm not incompetent. I'm just competent at being incompetent." - **Kiyotaka Ayanokōji**
+<table>
+  <tr>
+    <td width="70%">
+      <h2> " I'm not incompetent. I'm just competent at being incompetent. " - Kiyotaka Ayanokōji</h2>
+      <br>
+      <strong>Full-stack developer</strong> specializing in modern web and mobile technologies. Building intuitive experiences with clean code.
+    </td>
+    <td width="30%" align="right">
+      <img src="https://giffiles.alphacoders.com/219/219128.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/3a/26/fa/3a26fa268c589d8b0d3e570fe74a5567.gif" width="300">
 </p>
-
-**Full-stack developer** specializing in modern web and mobile technologies. Building intuitive experiences with clean code.
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +46,7 @@
 
 ## 🌸 Ayanokōji Corner
 
-> "The only ones who should kill, are those who are prepared to be killed." - **Kiyotaka Ayanokōji**
+> "The only ones who should kill, are those who are prepared to be killed." - Kiyotaka Ayanokōji
 
 <p align="center">
   <img src="https://media1.tenor.com/m/4vVh29qLNGsAAAAC/ayanokoji-classroom-of-the-elite.gif" width="280">
