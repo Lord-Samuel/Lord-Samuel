@@ -1,41 +1,72 @@
-# <img src="https://media.tenor.com/Bu_fE4hI3ksAAAAi/jujutsu-kaisen-chousou.gif" width="100"> SAMUEL'S PROFILE  
+# SAMUEL'S PROFILE <img src="https://giffiles.alphacoders.com/219/219128.gif" width="80">
 
-I'm Samuel
+> "I'm not incompetent. I'm just competent at being incompetent." - **Kiyotaka Ayanokōji**
+
 <br>
-I'm passionated about nothing. tnx
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3a/26/fa/3a26fa268c589d8b0d3e570fe74a5567.gif" width="300">
+</p>
+
+**Full-stack developer** specializing in modern web and mobile technologies. Building intuitive experiences with clean code.
+
 <br>
 
-<!-- Stats -->
-<details><summary><b>My stats</b></summary><br>
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-[![Lord-Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lord-Samuel&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lord-Samuel&theme=dark)](https://git.io/streak-stats)  
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lord-Samuel&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lord-Samuel&theme=radical" alt="GitHub Streak" height="165">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lord-Samuel&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Activity Graph">
+</p>
 
+<br>
 
-<!-- Contact me -->
-<details><summary><b>Contact me</b></summary><br>
-  
-### Let's connect and collaborate!
+## 🌸 Ayanokōji Corner
 
-- <a href="https://github.com/Lord-Samuel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /> GitHub</a>
-- <a href="mailto:lordsamueltech@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="20" /> Email</a>
+> "The only ones who should kill, are those who are prepared to be killed." - **Kiyotaka Ayanokōji**
 
-**Instant Messaging:**
-- <a href="https://wa.me/233558876692" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" height="20" /> WhatsApp</a>
-- <a href="https://t.me/SamuelRebix" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" /> Telegram</a>
+<p align="center">
+  <img src="https://media1.tenor.com/m/4vVh29qLNGsAAAAC/ayanokoji-classroom-of-the-elite.gif" width="280">
+</p>
 
-**Availability:**
-- Monday-Friday: 9AM - 5PM GMT
-- Response time: Within 24 hours
+<br>
 
-For collaborations, please include detailed information about your project.
-</details>
+## 📫 Connect With Me
 
-</details>
+<p align="center">
+  <a href="mailto:lordsamueltech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/233558876692">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/SamuelRebix">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lord-Samuel&color=blueviolet&style=flat" alt="Profile Views">
+</p>
+
+---
+
+<p align="center">
+  <i>In a world of ordinary, strive for calculated excellence.</i>
+</p>
