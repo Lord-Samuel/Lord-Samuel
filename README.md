@@ -4,15 +4,15 @@
 --------
 
 
-> * Just newbie
-> * I like learning programming language.
+> * Just a newbie
+> * I like learning programming languages.
 > * Live in Accra, Ghana
 > * I'm 15 y.o.
 > * B'day 18 Feb
 > ,If you want know 
 > * Commit almost 'every' day
 > * Allways on Whatsapp
-> * `Thx`
+> * `Tnx`
 --------
 
 `Currently learning`
