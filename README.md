@@ -8,8 +8,8 @@
 > * I like learning programming languages.
 > * Live in Accra, Ghana
 > * I'm 15 y.o.
-> * B'day 18 Feb
-> ,If you want know 
+> * B'day 18 Feb,
+> If you want know 
 > * Commit almost 'every' day
 > * Allways on Whatsapp
 > * `Tnx`
@@ -17,11 +17,10 @@
 
 `Currently learning`
 
-* JS
-* PHP
+* NodeJS
 * Go
-* HTML
-* CSS
+* Nextjs
+* Python
 * SQLite
 * Mongodb
 
@@ -49,11 +48,7 @@
     <summary>「¿」 <b>Follow Me On</b></summary><br/>
 
 <p align="center">
-  <a href="https://wa.me/233245654110"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lord-Samuel"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/Lord-Samuel" /></a>
+  <a href="https://whatsapp.com/channel/0029Vb67k3mAInPdZ4l9R60f"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 </details>
