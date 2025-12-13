@@ -9,7 +9,7 @@
 > * I'm 15 y.o.
 > * Commit almost 'every' day
 > * Always on Whatsapp
-> * `Tnx`
+> * `Tnx For Visiting`
 --------
 
 `Currently learning`
